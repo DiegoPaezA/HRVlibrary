@@ -38,7 +38,7 @@ Measurement of the frequency spectrum of HRV is commonly obtained using the Four
 
 The method used is Welch's Periodogram (1967), which is based on the periodogram method developed by Bartlett (1948). Bartlett's method consists of dividing a sequence of N points into K segments, and then the periodograms of each of the K segments are calculated. The estimate of the Bartlett power spectrum is given by the average of the periodograms of each of the K segments. 
 
-**References for this work can be found in:** https://repositorio.ufsc.br/handle/123456789/160626 
+**References of this work can be found in:** https://repositorio.ufsc.br/handle/123456789/160626 
 
 
 
