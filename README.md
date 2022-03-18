@@ -36,9 +36,11 @@ Measurement of the frequency spectrum of HRV is commonly obtained using the Four
 |HF [ms2] |High Frequency, frequency range from 0.15 to 0.4 Hz. Ratio is related to the activation level of the PNS. |
 |LF/HF    |Ratio between LF and HF. Whose value allows an estimation of the vagal-sympathetic balance. |
 
-The method used is Welch's Periodogram (1967), which is based on the periodogram method developed by Bartlett (1948). Bartlett's method consists of dividing a sequence of N points into K segments, and then the periodograms of each of the K segments are calculated. The estimate of the Bartlett power spectrum is given by the average of the periodograms of each of the K segments. 
+<p style="text-align: justify;">The method used is Welch's Periodogram (1967), which is based on the periodogram method developed by Bartlett (1948). Bartlett's method consists of dividing a sequence of N points into K segments, and then the periodograms of each of the K segments are calculated. The estimate of the Bartlett power spectrum is given by the average of the periodograms of each of the K segments. </p
+
 
 ![alt text](https://github.com/DiegoPaezA/HRVlibrary/blob/master/hrvanalisis_result.png)
+
 
 ## Class Details
 
