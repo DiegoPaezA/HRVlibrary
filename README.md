@@ -38,6 +38,8 @@ Measurement of the frequency spectrum of HRV is commonly obtained using the Four
 
 The method used is Welch's Periodogram (1967), which is based on the periodogram method developed by Bartlett (1948). Bartlett's method consists of dividing a sequence of N points into K segments, and then the periodograms of each of the K segments are calculated. The estimate of the Bartlett power spectrum is given by the average of the periodograms of each of the K segments. 
 
+![alt text](https://github.com/DiegoPaezA/HRVlibrary/blob/master/hrvanalisis_result.png)
+
 ## Class Details
 
 The signal filtering process starts by resampling the VFC signal to a uniformly sampled 1 Hz signal, since as described in section 3.3.2, the recorded VFC signal does not have a constant sampling interval. After resampling, RR intervals that lie outside the upper and lower bounds are discarded, as seen in Figure 36. The limits are calculated from the calculated average of the HRV signal and its interquartile range.
