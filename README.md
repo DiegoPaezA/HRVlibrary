@@ -6,7 +6,13 @@
 Thayer and Lane's (2000) neurovisceral integration model proposes a reciprocal link between performance of performed functions and physiological processes and suggests HRV as a mediator between physiological and psychological processes (THAYER, LANE, 2000).</p>
 
 <p style="text-align: justify;">HRV functions as an informative, non-invasive mechanism on health-related cardiovascular parameters. These parameters can be used for clinical purposes, as a marker of stress or for exercise prescription in the fields of medicine, psychology and physical education (RUMENIG et al., 2011).
-HRV is an indicator of ANS activity that is responsible for numerous control functions in the human body which includes the emotional responses associated with voluntary actions (KOLB, WHISHAW, 2002). The autonomic nervous system regulates the physiological resources of an individual according to the demand required by the environment.</p> 
+HRV is an indicator of ANS activity that is responsible for numerous control functions in the human body which includes the emotional responses associated with voluntary actions (KOLB, WHISHAW, 2002). The autonomic nervous system regulates the physiological resources of an individual according to the demand required by the environment.</p>
+
+![HRV Time and Frequency Measurements Signal](https://github.com/DiegoPaezA/HRVlibrary/blob/master/hrvanalisis_result.png)
+
+HRV Time and Frequency Measurements Signal
+
+
 
 <p style="text-align: justify;">The most common metrics for the analysis of HRV recognized by the Task Force of the European Society of Cardiology and the North American Society of Pacing Electrophysiology (1996) are presented in Table 1 and Table 2.</p>
 
@@ -37,10 +43,6 @@ HRV is an indicator of ANS activity that is responsible for numerous control fun
 |LF/HF    |Ratio between LF and HF. Whose value allows an estimation of the vagal-sympathetic balance. |
 
 <p style="text-align: justify;">The method used is Welch's Periodogram (1967), which is based on the periodogram method developed by Bartlett (1948). Bartlett's method consists of dividing a sequence of N points into K segments, and then the periodograms of each of the K segments are calculated. The estimate of the Bartlett power spectrum is given by the average of the periodograms of each of the K segments. </p>
-
-
-![alt text](https://github.com/DiegoPaezA/HRVlibrary/blob/master/hrvanalisis_result.png)
-
 
 ## Class Details
 
